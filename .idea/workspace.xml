@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5694b72-2b6c-4362-84c4-69605b52d12d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="33575e4c-fd2d-4559-928d-4ba7ab5e7a66" />
+  <component name="ProjectId" id="1py4I9uUDbI256zAO9zk5iZw5wI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder/JPMC-tech-task-2-PY3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pycharm projects\ustra_assignment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.function">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ustra_assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\khullar\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ustra_assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.function" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5694b72-2b6c-4362-84c4-69605b52d12d" name="Default Changelist" comment="" />
+      <created>1616141913882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616141913882</updated>
+      <workItem from="1616141915501" duration="1204000" />
+      <workItem from="1616229088999" duration="683000" />
+      <workItem from="1616491279002" duration="1356000" />
+      <workItem from="1616492799975" duration="1715000" />
+      <workItem from="1616494670714" duration="1779000" />
+      <workItem from="1616496506694" duration="1782000" />
+      <workItem from="1616516122345" duration="1743000" />
+      <workItem from="1616518066683" duration="1753000" />
+      <workItem from="1616519947069" duration="1737000" />
+      <workItem from="1616521760903" duration="256000" />
+      <workItem from="1616846965238" duration="480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616521406511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616521406511" />
+    <state x="444" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616142838365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1616142838365" />
+    <state x="325" y="91" key="FileChooserDialogImpl" timestamp="1616847000612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="325" y="91" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616847000612" />
+    <state width="1322" height="302" key="GridCell.Tab.0.bottom" timestamp="1616522018456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="302" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616522018456" />
+    <state width="1322" height="302" key="GridCell.Tab.0.center" timestamp="1616522018456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="302" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616522018456" />
+    <state width="1322" height="302" key="GridCell.Tab.0.left" timestamp="1616522018456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="302" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616522018456" />
+    <state width="1322" height="302" key="GridCell.Tab.0.right" timestamp="1616522018456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="302" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616522018456" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1616521452752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1616521452752" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1616846965642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616846965642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/function.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ustra_assignment$function.coverage" NAME="function Coverage Results" MODIFIED="1616521982524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
