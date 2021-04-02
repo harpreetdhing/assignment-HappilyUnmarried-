@@ -9,7 +9,8 @@ import pymysql
 # PyMySQL is an interface for connecting to a MySQL database server from Python.
 
 # WE use mysql to store our data in 'teams' database installed on localhost 127.0.0.1 having username as "root" and has no password.
-conn=pymysql.connect("127.0.0.1","root",'',"teams")
+#set mysql connection before execution accordingly.
+conn=pymysql.connect("localhost","usernname",'password',"database_name")
 
 # these nested lists are generated using split function from simple lists.
 # clubs nested list contains teams along with their respected states.
